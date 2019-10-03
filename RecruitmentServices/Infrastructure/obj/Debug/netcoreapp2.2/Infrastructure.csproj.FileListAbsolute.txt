@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\house-of-cards\RecruitmentServices\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.dev.json
