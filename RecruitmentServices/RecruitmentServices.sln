@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{1D0D324D-87CF-40EE-9249-6DD8B5BCF610}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recruitment_Portal", "Recruitment_Portal\Recruitment_Portal.csproj", "{C5C42F98-B363-4A1D-9597-3F2D75DB59A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recruitment_UI", "Recruitment_UI\Recruitment_UI.csproj", "{2F6530FC-9A83-4563-954A-F633FF5CDB6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{1D0D324D-87CF-40EE-9249-6DD8B5BCF610}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D0D324D-87CF-40EE-9249-6DD8B5BCF610}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D0D324D-87CF-40EE-9249-6DD8B5BCF610}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C5C42F98-B363-4A1D-9597-3F2D75DB59A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C5C42F98-B363-4A1D-9597-3F2D75DB59A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C5C42F98-B363-4A1D-9597-3F2D75DB59A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5C42F98-B363-4A1D-9597-3F2D75DB59A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6530FC-9A83-4563-954A-F633FF5CDB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6530FC-9A83-4563-954A-F633FF5CDB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6530FC-9A83-4563-954A-F633FF5CDB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6530FC-9A83-4563-954A-F633FF5CDB6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

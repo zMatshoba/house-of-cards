@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2F6530FC-9A83-4563-954A-F633FF5CDB6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/Repos/CandidateRepo.cs">
+    <Files>
+      <File FileName="Domain/Repos/CandidateRepo.cs" Line="305" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RecruitmentServices" expanded="True">
+            <Node name="Domain" expanded="True">
+              <Node name="Repos" expanded="True">
+                <Node name="CandidateRepo.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Recruitment_UI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Recruitment__UI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
